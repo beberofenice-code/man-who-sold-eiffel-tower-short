@@ -1,0 +1,220 @@
+{
+  "fps": 30,
+  "total_frames": 2310,
+  "duration_s": 77,
+  "shots": [
+    {
+      "id": 1,
+      "a": 0,
+      "b": 159,
+      "light": "day",
+      "set": "plaza",
+      "xfade": 0
+    },
+    {
+      "id": 2,
+      "a": 159,
+      "b": 306,
+      "light": "day",
+      "set": "tower_close",
+      "xfade": 0
+    },
+    {
+      "id": 3,
+      "a": 306,
+      "b": 421,
+      "light": "day",
+      "set": "cafe",
+      "xfade": 6
+    },
+    {
+      "id": 4,
+      "a": 421,
+      "b": 570,
+      "light": "interior",
+      "set": "hotel_salon",
+      "xfade": 6
+    },
+    {
+      "id": 5,
+      "a": 570,
+      "b": 746,
+      "light": "interior",
+      "set": "hotel_salon",
+      "xfade": 0
+    },
+    {
+      "id": 6,
+      "a": 746,
+      "b": 827,
+      "light": "day",
+      "set": "plaza",
+      "xfade": 6
+    },
+    {
+      "id": 7,
+      "a": 827,
+      "b": 959,
+      "light": "interior",
+      "set": "hotel_salon",
+      "xfade": 6
+    },
+    {
+      "id": 8,
+      "a": 959,
+      "b": 1066,
+      "light": "dusk",
+      "set": "hotel_alcove",
+      "xfade": 0
+    },
+    {
+      "id": 9,
+      "a": 1066,
+      "b": 1185,
+      "light": "interior",
+      "set": "hotel_alcove",
+      "xfade": 0
+    },
+    {
+      "id": 10,
+      "a": 1185,
+      "b": 1335,
+      "light": "golden",
+      "set": "train_escape",
+      "xfade": 6
+    },
+    {
+      "id": 11,
+      "a": 1335,
+      "b": 1484,
+      "light": "day",
+      "set": "plaza",
+      "xfade": 6
+    },
+    {
+      "id": 12,
+      "a": 1484,
+      "b": 1658,
+      "light": "storm",
+      "set": "explainer",
+      "xfade": 6
+    },
+    {
+      "id": 13,
+      "a": 1658,
+      "b": 1788,
+      "light": "dusk",
+      "set": "alley",
+      "xfade": 6
+    },
+    {
+      "id": 14,
+      "a": 1788,
+      "b": 1982,
+      "light": "day",
+      "set": "vienna_cafe",
+      "xfade": 6
+    },
+    {
+      "id": 15,
+      "a": 1982,
+      "b": 2107,
+      "light": "dusk",
+      "set": "hotel_bust",
+      "xfade": 6
+    },
+    {
+      "id": 16,
+      "a": 2107,
+      "b": 2310,
+      "light": "golden",
+      "set": "finale",
+      "xfade": 6
+    }
+  ],
+  "flashes": [
+    {
+      "f": 156,
+      "dur": 3
+    }
+  ],
+  "kicks": [
+    [
+      68,
+      2.8
+    ],
+    [
+      439,
+      3.4
+    ],
+    [
+      1209,
+      3
+    ],
+    [
+      1405,
+      4
+    ],
+    [
+      1603,
+      3.4
+    ],
+    [
+      1738,
+      3.8
+    ],
+    [
+      2029,
+      3.6
+    ],
+    [
+      2145,
+      3.8
+    ],
+    [
+      2252,
+      2.4
+    ]
+  ],
+  "events": {
+    "F_AGAIN": 1937,
+    "F_BOLTS": 2069,
+    "F_BREAKS": 1738,
+    "F_BRIBE": 1008,
+    "F_BROKE": 196,
+    "F_CASH": 1209,
+    "F_CAUGHT": 2145,
+    "F_CLEAN": 1504,
+    "F_COPS": 1762,
+    "F_DEALERS": 482,
+    "F_EIFFEL": 80,
+    "F_LIMO": 774,
+    "F_LOCK": 1603,
+    "F_LUSTIG": 364,
+    "F_MINISTER": 599,
+    "F_OFFICIAL": 1133,
+    "F_PAPER": 327,
+    "F_PAPERS": 1898,
+    "F_PAPERS_CUT": 1876,
+    "F_PLAN": 404,
+    "F_POISSON": 861,
+    "F_POLICE": 2029,
+    "F_RECEIPT": 1373,
+    "F_REPAINT": 287,
+    "F_RUSTY": 225,
+    "F_SALESMAN": 2252,
+    "F_SALESMAN_CUT": 2186,
+    "F_SCRAP": 108,
+    "F_SEALS": 1094,
+    "F_SEVEN_K": 685,
+    "F_SHADY": 1575,
+    "F_SOLD": 68,
+    "F_STAMP": 439,
+    "F_TRAIN": 1262,
+    "F_UNLUCKILY": 1405,
+    "F_WATCH": 1693,
+    "F_WHISPER": 974,
+    "F_WIFE": 923,
+    "F_WITHOUT": 132
+  }
+}
