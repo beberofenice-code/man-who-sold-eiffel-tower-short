@@ -3,7 +3,7 @@
 A 77-second 2K vertical animated story short (`1440×2560`, 30 fps) telling the true 1925 story of con artist **Victor Lustig** selling the Eiffel Tower for scrap metal in Paris — built in Three.js + Remotion with flat 2D bean-head cartoon characters in hand-painted 3D 1925 Paris & Vienna sets, world ink outlines, depth-aware bokeh, ElevenLabs `eleven_v4` narration, and BS.1770-4 mastered procedural Parisian musette-waltz caper music and foley.
 
 ## Watch / Download 2K Master
-- **Direct Download (Release Asset):** [the-man-who-sold-the-eiffel-tower-2k.mp4](https://github.com/beberofenice-code/man-who-sold-eiffel-tower-short/releases/download/v1.0.0/the-man-who-sold-the-eiffel-tower-2k.mp4) (`105 MB`)
+- **Direct Download (Release Asset):** [the-man-who-sold-the-eiffel-tower-2k.mp4](https://github.com/beberofenice-code/man-who-sold-eiffel-tower-short/raw/v1.0.0/the-man-who-sold-the-eiffel-tower-2k.mp4) (`105 MB`)
 - **GitHub Release:** [`v1.0.0`](https://github.com/beberofenice-code/man-who-sold-eiffel-tower-short/releases/tag/v1.0.0)
 - **Video:** `1440×2560` (9:16 2K vertical), `30 fps`, `2,310` frames (`77.00 s`), H.264 `yuv420p` CRF 16 `+faststart`
 - **Audio:** AAC `48 kHz` stereo `256 kbps`, ElevenLabs `eleven_v4` narration + original Parisian musette accordion & caper score + 34 frame-locked SFX cues mastered to `-15.1 LUFS` / `LRA 2.2 LU` / `-0.9 dBFS` true peak (zero silences)
